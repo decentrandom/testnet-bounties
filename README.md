@@ -33,6 +33,13 @@ DecentRandom은 투자금을 받는 대신, 참여에 따라 RAND 토큰을 보�
 - 보상으로 지급되는 RAND 토큰은 메인넷의 제네시스 파일에 포함됩니다. (이는 메인넷 이전에 송, 수신이 불가함을 의미합니다.)
 - 보상 목록은 사전 공지 없이 변경될 수 있습니다.
 
+## 주소 생성기 다운로드
+
+- 테스트넷 보상은 메인넷 런칭 시 기입한 RAND 주소로 지급됩니다. 아래 프로그램을 다운로드하여 RAND 주소를 생성하시기 바랍니다.
+- Mac OSX 용 <https://github.com/decentrandom/testnet-bounties/randkeygen/macosx>
+- Windows 용 <https://github.com/decentrandom/testnet-bounties/randkeygen/windows>
+
+
 ## 테스트넷 보상 목록
 
 ### 응용프로그램 개발
