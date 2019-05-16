@@ -36,8 +36,8 @@ DecentRandom은 투자금을 받는 대신, 참여에 따라 RAND 토큰을 보�
 ## 주소 생성기 다운로드
 
 - 테스트넷 보상은 메인넷 런칭 시 기입한 RAND 주소로 지급됩니다. 아래 프로그램을 다운로드하여 RAND 주소를 생성하시기 바랍니다.
-- Mac OSX 용 <https://github.com/decentrandom/testnet-bounties/tree/master/randkeygen/macosx>[/randkeygen/macosx]
-- Windows 용 <https://github.com/decentrandom/testnet-bounties/tree/master/randkeygen/windows>[/randkeygen/windows]
+- Mac OSX 용 : [/randkeygen/macosx](https://github.com/decentrandom/testnet-bounties/tree/master/randkeygen/macosx)
+- Windows 용 : [/randkeygen/windows](https://github.com/decentrandom/testnet-bounties/tree/master/randkeygen/windows)
 
 
 ## 테스트넷 보상 목록
