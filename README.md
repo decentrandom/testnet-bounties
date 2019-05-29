@@ -75,7 +75,7 @@ DecentRandom은 투자금을 받는 대신, 참여에 따라 RAND 토큰을 보�
 | [**중문 번체 버전 번역**](https://decentrandom.com/bounty_guide?code=303) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 번체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
 | [**백서 영문 버전 번역**](https://decentrandom.com/bounty_guide?code=304) | 400,000 RAND | DecentRandom 백서를 영어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
 | [**백서 일문 버전 번역**](https://decentrandom.com/bounty_guide?code=305) | 400,000 RAND | DecentRandom 백서를 일본어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**백서 중문 긴체 버전 번역**](https://decentrandom.com/bounty_guide?code=306) | 400,000 RAND | DecentRandom 백서를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**백서 중문 간체 버전 번역**](https://decentrandom.com/bounty_guide?code=306) | 400,000 RAND | DecentRandom 백서를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
 | [**백서 중문 번체 버전 번역**](https://decentrandom.com/bounty_guide?code=307) | 400,000 RAND | DecentRandom 백서를 중국어 번체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
 
 ### 홍보
@@ -85,7 +85,7 @@ DecentRandom은 투자금을 받는 대신, 참여에 따라 RAND 토큰을 보�
 | [**DecentRandom 배너 게재.I**](https://decentrandom.com/bounty_guide?code=400) | 100,000 RAND / 月 | <https://decentrandom.com>으로 이동하는 배너를 자신의 웹사이트, 모바일 어플리케이션 등에 게재하고 월간 100회 이상의 순 유입이 있는 이들 중 순유입 순으로 1위에서 10위를 달성한 이들에게 각각 100,000 RAND를 지급합니다. |
 | [**DecentRandom 배너 게재.II**](https://decentrandom.com/bounty_guide?code=400) | 30,000 RAND / 月 | <https://decentrandom.com>으로 이동하는 배너를 자신의 웹사이트, 모바일 어플리케이션 등에 게재하고 월간 100회 이상의 순 유입이 있는 이들 중 순유입 순으로 11위에서 30위를 달성한 이들에게 각각 30,000 RAND를 지급합니다. |
 | [**DecentRandom 배너 게재.III**](https://decentrandom.com/bounty_guide?code=400) | 10,000 RAND / 月 | <https://decentrandom.com>으로 이동하는 배너를 자신의 웹사이트, 모바일 어플리케이션 등에 게재하고 월간 100회 이상의 순 유입이 있는 이들 중 순유입 순으로 31위에서 100위를 달성한 이들에게 각각 10,000 RAND를 지급합니다. |
-| **DecentRandom 관련 포스트 등록** | 10,000 RAND | DecentRandom을 소개하는 포스트를 자신의 블로그나 공개 커뮤니티에 등록한 이들 중 선착순 100명에게 10,000 RAND를 개별 지급합니다. 포스트 내용은 사실에 부합해야하며, 보편적인 기준에서 포스트로 볼 수 없는 짧은 글이나 무성의한 글은 지급 대상에서 제외됩니다. |
+| [**DecentRandom 관련 포스트 등록**](https://decentrandom.com/bounty_guide?code=401) | 10,000 RAND | DecentRandom을 소개하는 포스트를 자신의 블로그나 공개 커뮤니티에 등록한 이들 중 선착순 100명에게 10,000 RAND를 개별 지급합니다. 포스트 내용은 사실에 부합해야하며, 보편적인 기준에서 포스트로 볼 수 없는 짧은 글이나 무성의한 글은 지급 대상에서 제외됩니다. |
 | **DecentRandom 관련 동영상 등록** | 20,000 RAND | DecentRandom을 소개하는 동영상을 YouTube에 등록한 이들 중 선착순 50명에게 20,000 RAND를 개별 지급합니다. 영상 내용은 사실에 부합해야하며, 보편적인 기준에서 양호한 영상이라고 볼 수 없는 짧은 영상이나 미흡한 영상은 지급 대상에서 제외됩니다. |
 | **전시회, 밋업 홍보** | 100,000 RAND | Crypto 관련 각종 전시회 혹은 밋업 등에 DecentRandom의 노출을 진행한 이 중 선착순 20명에게 각각 100,000 RAND를 지급합니다. 밋업의 규모는 100명 이상이 참여하는 경우에 한 합니다.|
 
