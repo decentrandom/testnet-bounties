@@ -51,7 +51,7 @@ DecentRandom은 투자금을 받는 대신, 참여에 따라 RAND 토큰을 보�
 | [**코어 관리**](https://decentrandom.com/bounty_guide?code=101) | 1,000,000 RAND / 月 | [github.com/decentrandom/decentrandom](https://github.com/decentrandom/decentrandom) repository를 관리하고 issue, merge 등을 관리하는 개발 총괄의 역할을 하는 이에게 월 1,000,000 RAND를 지급합니다. |
 | [**코어 기능 향상 기여자**](https://decentrandom.com/bounty_guide?code=102) | 1,000,000 RAND / 人 | [github.com/decentrandom/decentrandom](https://github.com/decentrandom/decentrandom) repository에 가장 많은 기여를 한 이들 5인을 선발하여 1인당 1,000,000 RAND를 지급합니다. |
 | [**iOS 지갑 개발**](https://decentrandom.com/bounty_guide?code=103) | 3,000,000 RAND | iOS용 지갑을 만든 이에게 선착순 1인 지급합니다. 보편적인 수준에서 편의성, 심미성을 갖춰야하며, 안정성이 없는 경우 지급되지 않습니다. rand의 모든 기능을 활용할 수 있어야 합니다. |
-| **안드로이드 지갑 개발** | 3,000,000 RAND | 구글 안드로이드용 지갑을 만든 이에게 선착순 1인 지급합니다. 보편적인 수준에서 편의성, 심미성을 갖춰야하며, 안정성이 없는 경우 지급되지 않습니다.  rand의 모든 기능을 활용할 수 있어야 합니다. |
+| [**안드로이드 지갑 개발**](https://decentrandom.com/bounty_guide?code=104) | 3,000,000 RAND | 구글 안드로이드용 지갑을 만든 이에게 선착순 1인 지급합니다. 보편적인 수준에서 편의성, 심미성을 갖춰야하며, 안정성이 없는 경우 지급되지 않습니다.  rand의 모든 기능을 활용할 수 있어야 합니다. |
 | **웹 지갑 개발** | 3,000,000 RAND | 웹용  지갑을 만든 이에게 선착순 1인 지급합니다. 보편적인 수준에서 편의성, 심미성을 갖춰야하며, 안정성이 없는 경우 지급되지 않습니다.  rand의 모든 기능을 활용할 수 있어야 합니다. |
 | **응용 서비스 런칭** | 1,000,000 RAND | DecentRandom을 사용하는 응용서비스를 런칭한 3인에게 선착순 지급합니다. 보편적인 수준에서 편의성, 심미성을 갖춰야하며, 안정성이 없는 경우 지급되지 않습니다. |
 | **블록 탐색기 개발** | 2,000,000 RAND | DecentRandom 테스트넷 용 블록 탐색기를 개발하는 이에게 선착순 1인 지급합니다. DecentRandom의 모든 네트워크 활동을 확인할 수 있어야 하며, chain-id를 바꿀 수 있어야 합니다. |
