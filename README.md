@@ -58,27 +58,27 @@ DecentRandom은 투자금을 받는 대신, 참여한 이들에게 RAND 토큰�
 | [**응용서비스 런칭**](https://decentrandom.com/bounty_guide?code=106) | 1,000,000 RAND | DecentRandom을 사용하는 응용서비스를 런칭한 3인에게 선착순 지급합니다. 보편적인 수준에서 편의성, 심미성을 갖춰야하며, 안정성이 없는 경우 지급되지 않습니다. |
 | [**블록탐색기 개발**](https://decentrandom.com/bounty_guide?code=107) | 2,000,000 RAND | DecentRandom 테스트넷 용 블록탐색기를 개발하는 이에게 선착순 1인 지급합니다. DecentRandom의 모든 네트워크 활동을 확인할 수 있어야 하며, chain-id를 바꿀 수 있어야 합니다. |
 | [**블록탐색기 운영**](https://decentrandom.com/bounty_guide?code=108) | 100,000 RAND / 月 | 블록탐색기를 운영하는 이에게 선착순 1인 지급합니다. 월 단위로 지급하며, uptime이 90% 이상이어야 합니다. 풀노드 운영, 검증인 노드 운영과 중복하여 신청할 수 있습니다. |
-| [**코어 코드 감사**](https://decentrandom.com/bounty_guide?code=109) | 10,000,000 RAND | 메인넷을 위한 DecentRandom 코어 최종 베타 버전의 코드를 검증하는 이에게 10,000,000 RAND를 지급합니다. 코드 감사 능력이 있음을 증명할 수 있어야 합니다. |
+| [**코어 코드 감사**](https://decentrandom.com/bounty_guide?code=109) | 10,000,000 RAND | 메인넷을 위한 DecentRandom 코어 최종 베타버전의 코드를 검증하는 이에게 10,000,000 RAND를 지급합니다. 코드 감사 능력이 있음을 증명할 수 있어야 합니다. |
 
 ### 테스트넷 노드
 
 | 구분 | RAND 지급량 | 미션 |
 |:---:|:---:|:---|
-| [**풀 노드 운영**](https://decentrandom.com/bounty_guide?code=200) | 100,000 RAND / 月 | 풀노드를 90% 이상 uptime으로 운영한 이에게 매월 100,000 RAND를 지급합니다. 풀 노드 운영은 선착순 5인이며, 검증인 노드와 중복 신청할 수 없습니다. |
-| [**검증인 노드 운영**](https://decentrandom.com/bounty_guide?code=201) | 1,000,000 RAND / 月 | 검증인은 풀노드 운영 바운티에 참여하였거나, 풀노드 운영을 최소 1개월 하였음을 증명한 뒤에 신청할 수 있습니다. 네트워크 온라인 상태를 90% 이상으로 운영한 검증인에게 매월 1,000,000 RAND를 지급합니다. 검증인 신청은 선착순 3인입니다. |
+| [**풀노드 운영**](https://decentrandom.com/bounty_guide?code=200) | 100,000 RAND / 月 | 풀노드를 90% 이상 uptime으로 운영한 이에게 매월 100,000 RAND를 지급합니다. 풀노드 운영은 선착순 5인이며, 검증인 노드와 중복 신청할 수 없습니다. |
+| [**검증인 노드 운영**](https://decentrandom.com/bounty_guide?code=201) | 1,000,000 RAND / 月 | 검증인은 풀노드 운영 프로그램에 참여하였거나, 풀노드 운영을 최소 1개월 하였음을 증명한 뒤 신청할 수 있습니다. 네트워크 온라인 상태를 90% 이상으로 운영한 검증인에게 매월 1,000,000 RAND를 지급합니다. 검증인 신청은 선착순 3인입니다. |
 
 ### 공식 웹사이트
 
 | 구분 | RAND 지급량 | 미션 |
 |:---:|:---:|:---|
-| [**영문 버전 번역**](https://decentrandom.com/bounty_guide?code=300) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 영어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**일문 버전 번역**](https://decentrandom.com/bounty_guide?code=301) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 일본어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**중문 간체 버전 번역**](https://decentrandom.com/bounty_guide?code=302) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**중문 번체 버전 번역**](https://decentrandom.com/bounty_guide?code=303) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 번체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**백서 영문 버전 번역**](https://decentrandom.com/bounty_guide?code=304) | 400,000 RAND | DecentRandom 백서를 영어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**백서 일문 버전 번역**](https://decentrandom.com/bounty_guide?code=305) | 400,000 RAND | DecentRandom 백서를 일본어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**백서 중문 간체 버전 번역**](https://decentrandom.com/bounty_guide?code=306) | 400,000 RAND | DecentRandom 백서를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**백서 중문 번체 버전 번역**](https://decentrandom.com/bounty_guide?code=307) | 400,000 RAND | DecentRandom 백서를 중국어 번체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**영문버전 번역**](https://decentrandom.com/bounty_guide?code=300) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 영어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**일문버전 번역**](https://decentrandom.com/bounty_guide?code=301) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 일본어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**중문간체버전 번역**](https://decentrandom.com/bounty_guide?code=302) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**중문번체버전 번역**](https://decentrandom.com/bounty_guide?code=303) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 번체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**백서 영문버전 번역**](https://decentrandom.com/bounty_guide?code=304) | 400,000 RAND | DecentRandom 백서를 영어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**백서 일문버전 번역**](https://decentrandom.com/bounty_guide?code=305) | 400,000 RAND | DecentRandom 백서를 일본어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**백서 중문간체버전 번역**](https://decentrandom.com/bounty_guide?code=306) | 400,000 RAND | DecentRandom 백서를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**백서 중문번체버전 번역**](https://decentrandom.com/bounty_guide?code=307) | 400,000 RAND | DecentRandom 백서를 중국어 번체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
 
 ### 홍보
 
