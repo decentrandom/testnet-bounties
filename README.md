@@ -103,6 +103,7 @@ DecentRandom은 투자금을 받는 대신, 참여한 이들에게 RAND 토큰�
 | [**트위터 운영**](https://decentrandom.com/bounty_guide?code=505) | 500,000 RAND / 月 | 공식 트위터 운영(요청 자료의 등록 및 다른 유저와의 피드백)하는 이에게 월 500,000 RAND를 지급합니다. |
 | [**대규모 밋업 지원**](https://decentrandom.com/bounty_guide?code=506) | 300,000 RAND | DecentRandom을 위한 단독 밋업을 진행하는 경우 회당 300,000 RAND를 지원합니다. 단 밋업 규모는 100명 이상이어야 합니다. 선착순 5건에 지급합니다. |
 | [**소규모 밋업 지원**](https://decentrandom.com/bounty_guide?code=507) | 50,000 RAND | DecentRandom을 위한 100명 미만의 단독 밋업을 진행하는 경우 회당 50,000 RAND를 지원합니다. 선착순 20건에 지급합니다. |
+| [**보상프로그램**](https://decentrandom.com/bounty_guide?code=508) | 200,000 RAND / 月 | DecentRandom 테스트넷을 운영하는 1인에게 월 200,000 RAND를 지원합니다. |
 
 ### 에어드랍
 
