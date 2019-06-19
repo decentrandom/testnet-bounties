@@ -71,10 +71,10 @@ DecentRandom은 투자금을 받는 대신, 참여한 이들에게 RAND 토큰�
 
 | 구분 | RAND 지급량 | 미션 |
 |:---:|:---:|:---|
-| [**영문버전 번역**](https://decentrandom.com/bounty_guide?code=300) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 영어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**일문버전 번역**](https://decentrandom.com/bounty_guide?code=301) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 일본어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**중문간체버전 번역**](https://decentrandom.com/bounty_guide?code=302) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
-| [**중문번체버전 번역**](https://decentrandom.com/bounty_guide?code=303) | 100,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 번체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**영문버전 번역**](https://decentrandom.com/bounty_guide?code=300) | 150,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 영어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**일문버전 번역**](https://decentrandom.com/bounty_guide?code=301) | 150,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 일본어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**중문간체버전 번역**](https://decentrandom.com/bounty_guide?code=302) | 150,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
+| [**중문번체버전 번역**](https://decentrandom.com/bounty_guide?code=303) | 150,000 RAND | <https://decentrandom.com>의 모든 컨텐트를 중국어 번체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
 | [**백서 영문버전 번역**](https://decentrandom.com/bounty_guide?code=304) | 400,000 RAND | DecentRandom 백서를 영어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
 | [**백서 일문버전 번역**](https://decentrandom.com/bounty_guide?code=305) | 400,000 RAND | DecentRandom 백서를 일본어로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
 | [**백서 중문간체버전 번역**](https://decentrandom.com/bounty_guide?code=306) | 400,000 RAND | DecentRandom 백서를 중국어 간체로 번역하는 작업입니다. 작업을 완료한 이에게 선착순 1인 지급합니다. |
