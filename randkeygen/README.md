@@ -1,2 +1,0 @@
-- 키파일 생성 프로그램 대신 커맨드라인입력기인 randcli를 이용하기 바랍니다.
-- randcli 정식버전은 https://github.com/decentrandom/decentrandom/releases 에서 내려받을 수 있습니다.
