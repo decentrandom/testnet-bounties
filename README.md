@@ -1,3 +1,6 @@
-# DecentRandom 테스트넷 보상프로그램
+# DecentRandom 테스트넷 기여자 목록
 
-- 자세한 내용은 [공식 웹사이트](https://decentrandom.com)를 참고하시기 바랍니다.
+
++---+---+---+
+|풀노드운영|rand177faylwqhwk04dctf5synk3uz56nshu499qg4r| |
++---+---+---
